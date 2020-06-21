@@ -1,0 +1,9 @@
+addon selenium version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+selenium.open chrome url google.com
+window ✱Google✱ style maximize
+selenium.click search gb_70 by id
+selenium.click search gb_Hd by class
+selenium.click search //*[@id="gb_70"] by xpath
+selenium.click search #gb_70 by cssselector
